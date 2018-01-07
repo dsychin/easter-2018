@@ -14,6 +14,7 @@
 - Vienna, Austria
 - Slovakia
 - Prague, Czech Republic?
+
 ## Travel plan
 - Manchester -> Vienna -> Slovakia -> Prague -> Manch
 
